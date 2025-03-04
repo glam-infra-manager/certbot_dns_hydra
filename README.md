@@ -1,6 +1,6 @@
 # Certbot Hydra Plugin
 
-A certbot Hydra plugin for use with the University of Oxford Hydra DNS system.
+A certbot plugin for use with the University of Oxford Hydra DNS system.
 
 Enables the use of certbot to create a LetsEncrypt SSL certificate, which in turn can be used to automate SSL certificate renewal.
 
